@@ -18,3 +18,60 @@ components that have the btn class name.
 .btn {
     font-size: 18;
 }
+
+.page {
+    font-family: 'metropolismedium', sans-serif;;
+}
+
+/*------------------------------------*\
+  FONTS
+\*------------------------------------*/
+
+@font-face {
+    font-family: 'metropolisbold';
+    font-weight: normal;
+    font-style: normal;
+    src: url("~/app/assets/fonts/metropolis/metropolis-bold-webfont.woff2") format("woff2"), url("~/app/assets/fonts/metropolis/metropolis-bold-webfont.woff") format("woff");
+}
+
+@font-face {
+    font-family: "metropolisextra_bold";
+    font-weight: normal;
+    font-style: normal;
+    src: url("~/app/assets/fonts/metropolis/metropolis-extrabold-webfont.woff2") format("woff2"), url("~/app/assets/fonts/metropolis/metropolis-extrabold-webfont.woff") format("woff");
+}
+
+@font-face {
+    font-family: "metropolisextra_light";
+    font-weight: normal;
+    font-style: normal;
+    src: url("~/app/assets/fonts/metropolis/metropolis-extralight-webfont.woff2") format("woff2"), url("~/app/assets/fonts/metropolis/metropolis-extralight-webfont.woff") format("woff");
+}
+
+@font-face {
+    font-family: "metropolislight";
+    font-weight: normal;
+    font-style: normal;
+    src: url("~/app/assets/fonts/metropolis/metropolis-light-webfont.woff2") format("woff2"), url("~/app/assets/fonts/metropolis/metropolis-light-webfont.woff") format("woff");
+}
+
+@font-face {
+    font-family: "metropolismedium";
+    font-weight: normal;
+    font-style: normal;
+    src: url("~/app/fonts/metropolis/metropolis-medium-webfont.woff2") format("woff2"), url("~/app/fonts/metropolis/metropolis-medium-webfont.woff") format("woff");
+}
+
+@font-face {
+    font-family: "metropolisregular";
+    font-weight: normal;
+    font-style: normal;
+    src: url("~/app/assets/fonts/metropolis/metropolis-regular-webfont.woff2") format("woff2"), url("~/app/assets/fonts/metropolis/metropolis-regular-webfont.woff") format("woff");
+}
+
+@font-face {
+    font-family: "metropolisthin";
+    font-weight: normal;
+    font-style: normal;
+    src: url("~/app/assets/fonts/metropolis/metropolis-thin-webfont.woff2") format("woff2"), url("~/app/assets/fonts/metropolis/metropolis-thin-webfont.woff") format("woff");
+}
